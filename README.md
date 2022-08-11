@@ -2,6 +2,5 @@
 
 Para executar nosso projeto execute o seguinte comando
 '''
-PORNÔ GAY 
-}
+A Ste é linda
 '''
